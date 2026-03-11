@@ -1,8 +1,8 @@
 # Git Introduction
 Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah Software Development
 
-- Nama : Ariana 
-- NPM : (NPM Mahasiswa)
+- Nama  : Ariana Dwi Herlinawati
+- NPM   : 2313020096
 
 ## Tujuan Repository
 Repository ini dibuat untuk latihan penggunaan Git seperti commit, push, dan dokumentasi project.

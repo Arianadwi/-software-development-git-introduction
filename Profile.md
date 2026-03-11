@@ -1,12 +1,14 @@
-# Perkenalan Mahasiswa
+# Profil Mahasiswa
 
-## Data Diri
-Nama: Arzil Ito  
-NPM: (isi NPM kamu)  
-Program Studi: (isi prodi kamu)
+## Informasi Pribadi
+Nama Lengkap : Ariana Dwi Herlinawati  
+NPM : 2313020096  
 
-## Minat di Bidang IT
-Saya memiliki minat pada bidang pengembangan web, sistem informasi, dan pengembangan game.
+## Hobi
+Memasak
 
-## Harapan terhadap Mata Kuliah
-Saya berharap dapat memahami penggunaan Git dan GitHub untuk manajemen versi dalam pengembangan perangkat lunak serta dapat bekerja secara kolaboratif dalam proyek software.
+## Bahasa Pemrograman yang Ingin Dipelajari
+- Python
+
+## Target Karier di Bidang Teknologi
+Menjadi Data Analyst yang mampu menganalisis data dan membantu perusahaan dalam mengambil keputusan berdasarkan data.
